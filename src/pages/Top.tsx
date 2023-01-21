@@ -1,8 +1,10 @@
+import Table from "../components/Table"
+
 /** トップページ */
 function Top() {
   return (
     <>
-      <p>Table</p>
+      <Table />
     </>
   )
 }
