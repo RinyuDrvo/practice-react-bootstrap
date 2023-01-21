@@ -1,3 +1,16 @@
+# practice-react-bootstrap
+
+react-bootstrapを試すリポジトリ
+
+実装するもの
+- [ ] テーブル
+  - [ ] ソート
+  - [ ] ページネーション
+- [ ] フィルタ
+  - [ ] マルチセレクト
+  - [ ] 選択肢検索
+- [ ] ユニットテスト
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
