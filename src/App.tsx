@@ -1,9 +1,10 @@
 import React from 'react';
+import Top from './pages/Top';
 
 function App() {
   return (
     <div className="App">
-      <p>hoge</p>
+      <Top />
     </div>
   );
 }
